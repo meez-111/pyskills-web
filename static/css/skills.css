@@ -1,0 +1,38 @@
+.page-head,
+.page-desc {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.skill-box {
+    background-color: rgb(203, 195, 195);
+    border: 1px solid #ccccccc0;
+    width: 400px;
+    height: 100px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.skill-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(56, 110, 198);
+    margin: 10px 0 0 10px;
+}
+
+.skill-prog {
+    width: 350px;
+    height: 20px;
+    background-color: #f0f0f0;
+    margin: 10px 0 0 10px;
+    position: relative;
+}
+
+.prog-data {
+    height: 20px;
+    background-color: #522fbb;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
